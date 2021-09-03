@@ -1,0 +1,2 @@
+# Litedict
+Mini dictionary
